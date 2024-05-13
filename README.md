@@ -1,0 +1,1 @@
+# GeradorFrases_Front-End
